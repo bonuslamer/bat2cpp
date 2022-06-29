@@ -32,4 +32,6 @@ cout<<
 "hello"<<endl;
 ```
 8. There you have it, Enjoy :D well it's work in progress so you wouldn't be enjoying it :/
+# Update Reminder
+Currently I am working on other functions...
 # END OF README
