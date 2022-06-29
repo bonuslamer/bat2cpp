@@ -38,3 +38,5 @@ Currently I am working on other functions...
 ![bat2cpp_simple](https://user-images.githubusercontent.com/68444929/176446935-4a844b43-7f04-4ce9-98be-e6f071ae42aa.png)
 
 A simplified version of bat2cpp, It's a command line when inputted the batch functions it will convert them immediately.
+
+# END OF README
