@@ -1,2 +1,35 @@
 # bat2cpp
-Convert batch to CPP (THIS IS STILL WORK IN PROGRESS)
+![bat2cpp](https://user-images.githubusercontent.com/68444929/176368976-e533a704-bd8a-421f-8c9e-e597f702f975.png)
+
+Convert batch to CPP (THIS IS STILL WORK IN PROGRESS, SO IT IS USELESS FOR NOW!)
+
+# How it works.
+This program will replace every `bat` language text into `cpp`
+
+## Example 1
+1. Write this in a batch file named `batfile.bat`
+```
+echo Hello!
+```
+2. Then put it in the same directory as `bat2cpp.exe`
+3. Now run `bat2cpp.exe`
+4. Then a file will appear that is called `Output.cpp`, It's the converted file.
+5. Edit `Output.cpp` then add `include` and `int main()`, like this.
+```
+#include <iostream>
+int main(){
+  // THIS IS WHERE THE CONVERTED FUNCTION WOULD BE!
+}
+```
+6. Just because it's work in progress, the converted function would be:
+```
+cout<<
+hello
+```
+7. Put quotes `""` between `hello`, then at the last quote put `<<endl;`, like this.
+```
+cout<<
+"hello"<<endl;
+```
+8. There you have it, Enjoy :D well it's work in progress so you wouldn't be enjoying it :/
+# END OF README
