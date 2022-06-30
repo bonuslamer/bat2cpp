@@ -40,4 +40,19 @@ Currently I am working on other functions...
 A simplified version of bat2cpp, It's a command line when inputted the batch functions it will convert them immediately.
 # Very Simplified
 Made in batch.
+
+## Usage
+Drag and drop `helloworld.file` into `bat2cpp.bat`
+
+When it's done, a file `Output.cpp` will appear.
+
+## Make a file
+If you want to make a file that has a batch code to convert it to CPP.
+
+Make sure it has `begin` at the start.
+
+## Functions Avaliable
+1. `begin`
+2. `echo`
+3. `set`
 # END OF README
